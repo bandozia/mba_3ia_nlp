@@ -45,4 +45,3 @@ result['score'] = s_flat[c_indexes]
 
 #%%
 result
-
